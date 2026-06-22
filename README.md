@@ -8,7 +8,7 @@
 
 ## 这是什么?
 
-[控制台首页](https://fast118.github.io/console/) 是 fast118 所有 AI 工具项目的**统一展示页面**。
+[控制台首页](https://fast1188.github.io/console/) 是 fast118 所有 AI 工具项目的**统一展示页面**。
 
 **包括的项目:**
 
@@ -32,9 +32,9 @@
 
 **方式 1: GitHub Pages**
 
-1. 推代码到 `fast118/console` 仓库
+1. 推代码到 `fast1188/console` 仓库
 2. Settings → Pages → Source 选 `main` 分支
-3. 几分钟后访问 `https://fast118.github.io/console/`
+3. 几分钟后访问 `https://fast1188.github.io/console/`
 
 **方式 2: 本地预览**
 
@@ -87,4 +87,4 @@ MIT
 
 ![微信群](assets/wechat-qr.png)
 
-或提 [GitHub Issue](https://github.com/fast118/console/issues)
+或提 [GitHub Issue](https://github.com/fast1188/console/issues)
