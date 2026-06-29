@@ -81,6 +81,16 @@ console/
 MIT
 
 
+## 🔗 Related Projects
+
+| Project | Description |
+|---------|-------------|
+| [ai-agent-skills](https://github.com/fast1188/ai-agent-skills) | AI coding agent skills (11 skills) |
+| [free-ai-router](https://github.com/fast1188/free-ai-router) | Multi-AI fallback router |
+| [cc-switch](https://github.com/fast1188/cc-switch) | Claude Code API switcher CLI |
+| [worldbrief](https://github.com/fast1188/worldbrief) | World news aggregator → [Live](https://fast1188.github.io/worldbrief/) |
+| [free-ai-router-webui](https://github.com/fast1188/free-ai-router-webui) | Router admin panel → [Live](https://fast1188.github.io/free-ai-router-webui/) |
+
 ## 💬 联系
 
 扫码加微信群（AI 工具使用 / 提 issue / 需求讨论）：
