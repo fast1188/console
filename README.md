@@ -85,6 +85,7 @@ MIT
 
 | Project | Description |
 |---------|-------------|
+| [free-api-relay](https://github.com/fast1188/free-api-relay) | 🆕 Free LLM API relay (DeepSeek/GPT/Claude/Gemini) |
 | [ai-agent-skills](https://github.com/fast1188/ai-agent-skills) | AI coding agent skills (11 skills) |
 | [free-ai-router](https://github.com/fast1188/free-ai-router) | Multi-AI fallback router |
 | [cc-switch](https://github.com/fast1188/cc-switch) | Claude Code API switcher CLI |
